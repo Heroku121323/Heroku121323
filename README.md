@@ -23,6 +23,30 @@ class Developer:
         return "Always learning new technologies"
 ```
 
+---
+
+## 🎵 Музыка
+
+<div align="center">
+  <h3>🎧 Сейчас играет</h3>
+  <img src="https://img.shields.io/badge/Now_Playing-FRIENDLY_THUG_52_NGG_–_2_Goyard-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
+  
+  <br><br>
+  
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Music-FF6B6B?style=for-the-badge&logo=music&logoColor=white" alt="Music" />
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=FRIENDLY+THUG+52+NGG+–+2+Goyard;🎵+Coding+with+music+🎵;Turn+up+the+volume+🔊" alt="Music Typing" />
+</div>
+
+---
+
 ## 🛠 Технологии и инструменты
 
 <div align="center">
