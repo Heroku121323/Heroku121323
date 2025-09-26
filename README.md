@@ -32,6 +32,17 @@ class Developer:
   
   <br>
   
+  <!-- Работающий музыкальный плеер -->
+  <div align="center">
+    <audio controls style="width: 100%; max-width: 400px;">
+      <source src="https://music.yandex.ru/album/38172005" type="audio/mpeg">
+      <source src="https://music.yandex.ru/album/38172005" type="audio/ogg">
+      Ваш браузер не поддерживает аудио элемент.
+    </audio>
+  </div>
+  
+  <br>
+  
   <!-- Анимированный эквалайзер -->
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=🎵+Now+Playing+🎵;FRIENDLY+THUG+52+NGG+–+2+Goyard;🔊+Volume+Up+🔊" alt="Music Typing" />
@@ -39,7 +50,7 @@ class Developer:
   
   <br>
   
-  <!-- Анимированный эквалайзер -->
+  <!-- Красивый анимированный эквалайзер -->
   <div align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </div>
@@ -62,7 +73,7 @@ class Developer:
     <img src="https://img.shields.io/badge/▶️_PLAY_NOW-00FF00?style=for-the-badge&logo=play&logoColor=black" alt="Play Now" />
   </a>
   
-  <br>  <br>
+  <br><br>
   
   <!-- Статус воспроизведения -->
   <img src="https://img.shields.io/badge/🎶_LIVE-FF0000?style=for-the-badge&logo=music&logoColor=white" alt="Live" />
