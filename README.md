@@ -28,37 +28,44 @@ class Developer:
 ## 🎵 Музыка
 
 <div align="center">
-  <h3>🎧 Сейчас играет</h3>
+  <h3>🎧 FRIENDLY THUG 52 NGG – 2 Goyard</h3>
   
-  <img src="https://img.shields.io/badge/Now_Playing-FRIENDLY_THUG_52_NGG_–_2_Goyard-FF6B6B?style=for-the-badge&logo=music&logoColor=white" alt="Now Playing" />
+  <br>
   
-  <br><br>
+  <!-- Анимированный эквалайзер -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=🎵+Now+Playing+🎵;FRIENDLY+THUG+52+NGG+–+2+Goyard;🔊+Volume+Up+🔊" alt="Music Typing" />
+  </div>
   
+  <br>
+  
+  <!-- Анимированный эквалайзер -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </div>
+  
+  <br>
+  
+  <!-- Анимированные полосы эквалайзера -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/▁_▃_▅_▇_▅_▃_▁-FF6B6B?style=for-the-badge" alt="Equalizer 1" />
+    <br>
+    <img src="https://img.shields.io/badge/▃_▅_▇_▅_▃_▁_▃-00FF00?style=for-the-badge" alt="Equalizer 2" />
+    <br>
+    <img src="https://img.shields.io/badge/▅_▇_▅_▃_▁_▃_▅-FF0000?style=for-the-badge" alt="Equalizer 3" />
+  </div>
+  
+  <br>
+  
+  <!-- Кнопка воспроизведения -->
   <a href="https://music.yandex.ru/album/38172005" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_Listen_on_Yandex_Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Listen on Yandex Music" />
+    <img src="https://img.shields.io/badge/▶️_PLAY_NOW-00FF00?style=for-the-badge&logo=play&logoColor=black" alt="Play Now" />
   </a>
   
-  <br><br>
+  <br>  <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=FRIENDLY+THUG+52+NGG+–+2+Goyard;🎵+Coding+with+music+🎵;Turn+up+the+volume+🔊;Click+to+listen+👆" alt="Music Typing" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Yandex_Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Music" />
-  <img src="https://img.shields.io/badge/Music-FF6B6B?style=for-the-badge&logo=music&logoColor=white" alt="Music" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Volume-🔊-brightgreen?style=for-the-badge" alt="Volume" />
-  <img src="https://img.shields.io/badge/Genre-Hip_Hop-9C27B0?style=for-the-badge" alt="Genre" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/▶️_Play_Now-00FF00?style=for-the-badge&logo=play&logoColor=black" alt="Play Now" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/🎶_Currently_Listening-FF6B6B?style=for-the-badge" alt="Currently Listening" />
+  <!-- Статус воспроизведения -->
+  <img src="https://img.shields.io/badge/🎶_LIVE-FF0000?style=for-the-badge&logo=music&logoColor=white" alt="Live" />
 </div>
 
 ---
