@@ -11,7 +11,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "[Ваше имя]"
+        self.name = "[portable]"
         self.role = "Python Developer"
         self.skills = ["Python", "Telegram Bot API", "SQLite", "Git", "Discors bots"]
         self.passion = "Creating useful solutions"
@@ -117,9 +117,6 @@ tgskaz/
 <div align="center">
   <a href="https://t.me/W777AW">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
