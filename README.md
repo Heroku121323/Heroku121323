@@ -29,20 +29,36 @@ class Developer:
 
 <div align="center">
   <h3>🎧 Сейчас играет</h3>
-  <img src="https://img.shields.io/badge/Now_Playing-FRIENDLY_THUG_52_NGG_–_2_Goyard-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Playing" />
+  
+  <img src="https://img.shields.io/badge/Now_Playing-FRIENDLY_THUG_52_NGG_–_2_Goyard-FF6B6B?style=for-the-badge&logo=music&logoColor=white" alt="Now Playing" />
   
   <br><br>
   
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
+  <a href="https://music.yandex.ru/album/38172005" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Listen_on_Yandex_Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Listen on Yandex Music" />
+  </a>
   
   <br><br>
   
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=FRIENDLY+THUG+52+NGG+–+2+Goyard;🎵+Coding+with+music+🎵;Turn+up+the+volume+🔊;Click+to+listen+👆" alt="Music Typing" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Yandex_Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Music" />
   <img src="https://img.shields.io/badge/Music-FF6B6B?style=for-the-badge&logo=music&logoColor=white" alt="Music" />
   
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=FRIENDLY+THUG+52+NGG+–+2+Goyard;🎵+Coding+with+music+🎵;Turn+up+the+volume+🔊" alt="Music Typing" />
+  <img src="https://img.shields.io/badge/Volume-🔊-brightgreen?style=for-the-badge" alt="Volume" />
+  <img src="https://img.shields.io/badge/Genre-Hip_Hop-9C27B0?style=for-the-badge" alt="Genre" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/▶️_Play_Now-00FF00?style=for-the-badge&logo=play&logoColor=black" alt="Play Now" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/🎶_Currently_Listening-FF6B6B?style=for-the-badge" alt="Currently Listening" />
 </div>
 
 ---
