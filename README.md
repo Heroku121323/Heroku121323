@@ -1,8 +1,6 @@
 # 👋 Привет! Я portable
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=Python+Developer;Telegram+Bot+Creator;Full-Stack+Developer" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Python+Developer;Web+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -12,8 +10,8 @@
 class Developer:
     def __init__(self):
         self.name = "[portable]"
-        self.role = "Python Developer"
-        self.skills = ["Python", "Telegram Bot API", "SQLite", "Git", "Discors bots"]
+        self.role = "Python & Web Developer"
+        self.skills = ["Python", "JavaScript", "HTML/CSS", "Telegram Bot API", "SQLite", "Git", "React"]
         self.passion = "Creating useful solutions"
     
     def code(self):
@@ -27,12 +25,16 @@ class Developer:
 
 ## 🛠 Технологии и инструменты
 
-<div align="center">
-  
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### APIs & Frameworks
 ![Telegram Bot API](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -40,31 +42,65 @@ class Developer:
 
 ### Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📱 Мои проекты
 
+### 🌸 Цветочный магазин
+
+**Status:** Live | **Version:** 1.0.0 | **Demo:** [https://heroku121323.github.io/flowershop/](https://heroku121323.github.io/flowershop/)
+
+**Описание:** Современное веб-приложение для продажи цветочных букетов и сопутствующих товаров с полным функционалом интернет-магазина.
+
+#### ✨ Основные возможности:
+
+* 🛒 **Каталог товаров** - красивые карточки с изображениями
+* 🛍️ **Корзина покупок** - добавление, удаление, изменение количества
+* 🔍 **Поиск и фильтрация** - по категориям, цвету, цене
+* 📱 **Адаптивный дизайн** - отлично работает на всех устройствах
+* 💬 **Форма обратной связи** - связь с клиентами
+* 🎨 **Современный UI/UX** - градиенты, анимации, плавные переходы
+
+#### 🏗 Архитектура:
+
+```
+flower-shop/
+├── index.html          # Главная страница
+├── demo.html           # Основной сайт
+├── README.md           # Документация
+└── src/                # React компоненты (для будущего развития)
+```
+
+#### 🛠 Технологии:
+
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Styling:** CSS Grid, Flexbox, Gradients
+* **Images:** Unsplash API
+* **Deployment:** GitHub Pages
+
+[![View Project](https://img.shields.io/badge/View_Project-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heroku121323/flowershop)
+
+---
+
 ### 🤖 TrueParts82 Telegram Bot
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" alt="Status: Live" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version: 1.0.0" />
-</div>
+
+**Status:** Live | **Version:** 1.0.0
 
 **Описание:** Полнофункциональный Telegram бот для интернет-магазина автозапчастей с современной архитектурой и удобным интерфейсом.
 
 #### ✨ Основные возможности:
-- 🛒 **Система заказов** - интуитивное оформление заказов
-- 👥 **Админ-панель** - полное управление заказами и клиентами
-- 📊 **Аналитика** - просмотр статистики и клиентской базы
-- 💬 **Поддержка** - система обращений с пересылкой админам
-- 🗄️ **База данных** - надежное хранение данных в SQLite
-- 🎨 **UI/UX** - красивый интерфейс с изображениями
+
+* 🛒 **Система заказов** - интуитивное оформление заказов
+* 👥 **Админ-панель** - полное управление заказами и клиентами
+* 📊 **Аналитика** - просмотр статистики и клиентской базы
+* 💬 **Поддержка** - система обращений с пересылкой админам
+* 🗄️ **База данных** - надежное хранение данных в SQLite
+* 🎨 **UI/UX** - красивый интерфейс с изображениями
 
 #### 🏗 Архитектура:
+
 ```
 tgskaz/
 ├── src/
@@ -76,38 +112,30 @@ tgskaz/
 ```
 
 #### 🛠 Технологии:
-- **Backend:** Python 3.8+
-- **Bot Framework:** python-telegram-bot
-- **Database:** SQLite + aiosqlite
-- **Architecture:** Modular design
 
-<div align="center">
-  <a href="https://github.com/Heroku121323/tgbot">
-    <img src="https://img.shields.io/badge/View_Project-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-  </a>
-  <a href="https://github.com/Heroku121323/tgbot">
-    <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-</div>
+* **Backend:** Python 3.8+
+* **Bot Framework:** python-telegram-bot
+* **Database:** SQLite + aiosqlite
+* **Architecture:** Modular design
 
 ---
 
 ## 📊 Статистика GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heroku121323&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heroku121323&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heroku121323&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heroku121323&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heroku121323&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heroku121323&theme=tokyonight)
 
 ---
 
 ## 🎯 Цели на 2025
 
+- [x] Создать веб-приложение с современным дизайном
+- [x] Освоить адаптивную верстку
 - [ ] Изучить FastAPI и Django
-- [ ] Создать веб-приложение с React
+- [ ] Создать полноценное React приложение
 - [ ] Освоить Docker и Kubernetes
 - [ ] Добавить больше проектов в портфолио
 - [ ] Внести вклад в open-source проекты
@@ -116,16 +144,10 @@ tgskaz/
 
 ## 📫 Связь со мной
 
-<div align="center">
-  <a href="https://t.me/W777AW">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Heroku121323&style=for-the-badge&color=2CA5E0" alt="Profile Views" />
-  
-  ⭐ От [Heroku121323](https://github.com/Heroku121323)
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Heroku121323&color=blueviolet&style=flat-square)
+
+⭐ От [Heroku121323](https://github.com/Heroku121323)
